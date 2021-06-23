@@ -25,8 +25,6 @@ public class HackerrankMap {
                 System.out.println(query+"="+contactMap.get(query));
             else
                 System.out.println("Not found");
-
         }
-        input.close();
     }
 }
